@@ -1,0 +1,17 @@
+C:\Studium\Softwareprojekt\Neo\Neo Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Studium\Softwareprojekt\Neo\Neo Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Studium\Softwareprojekt\Neo\Neo Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Studium\Softwareprojekt\Neo\Neo Tests\bin\Debug\netcoreapp2.1\Neo Tests.deps.json
+C:\Studium\Softwareprojekt\Neo\Neo Tests\bin\Debug\netcoreapp2.1\Neo Tests.runtimeconfig.json
+C:\Studium\Softwareprojekt\Neo\Neo Tests\bin\Debug\netcoreapp2.1\Neo Tests.runtimeconfig.dev.json
+C:\Studium\Softwareprojekt\Neo\Neo Tests\bin\Debug\netcoreapp2.1\Neo Tests.dll
+C:\Studium\Softwareprojekt\Neo\Neo Tests\bin\Debug\netcoreapp2.1\Neo Tests.pdb
+C:\Studium\Softwareprojekt\Neo\Neo Tests\obj\Debug\netcoreapp2.1\Neo Tests.csprojAssemblyReference.cache
+C:\Studium\Softwareprojekt\Neo\Neo Tests\obj\Debug\netcoreapp2.1\Neo Tests.csproj.CoreCompileInputs.cache
+C:\Studium\Softwareprojekt\Neo\Neo Tests\obj\Debug\netcoreapp2.1\Neo Tests.AssemblyInfoInputs.cache
+C:\Studium\Softwareprojekt\Neo\Neo Tests\obj\Debug\netcoreapp2.1\Neo Tests.AssemblyInfo.cs
+C:\Studium\Softwareprojekt\Neo\Neo Tests\obj\Debug\netcoreapp2.1\Neo Tests.dll
+C:\Studium\Softwareprojekt\Neo\Neo Tests\obj\Debug\netcoreapp2.1\Neo Tests.pdb
+C:\Studium\Softwareprojekt\Neo\Neo Tests\bin\Debug\netcoreapp2.1\Neo Core.dll
+C:\Studium\Softwareprojekt\Neo\Neo Tests\bin\Debug\netcoreapp2.1\Neo Core.pdb
+C:\Studium\Softwareprojekt\Neo\Neo Tests\obj\Debug\netcoreapp2.1\Neo Tests.csproj.CopyComplete
